@@ -33,6 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <title>El Carron's Fair - Deletar</title>
 </head>
 <body>
+    
 
 <section class="container-l">
     <h1>Deletar sua conta</h1>

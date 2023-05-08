@@ -45,5 +45,6 @@ if (count($frutas) == 0) {
     <button type="submit" >Voltar</button>
 </form>
 </section>
+
 </body>
 </html>

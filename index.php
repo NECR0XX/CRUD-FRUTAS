@@ -46,6 +46,7 @@ require_once 'db.php';
     }
     ?>
 
+
     <form method="post">
 
     <label for="nome">Nome:</label>
